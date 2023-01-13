@@ -2,3 +2,6 @@
 ciku  
 # python
 __pycache__
+# 词库文件
+*.dict.yaml
+*.7z
